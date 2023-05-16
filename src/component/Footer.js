@@ -8,16 +8,16 @@ export const Footer=() =>{
     </span>
     <ul className="flex flex-wrap items-center text-sm font-medium text-gray-500 dark:text-gray-400 sm:mt-0">
         <li>
-            <a href="#" target="_blank" rel="noreferrer" className="mr-4 hover:underline md:mr-6 dark:hover:text-white ">Instagram</a>
+            <a href="https://instagram.com/kondareddy.shilpa?igshid=OTJhZDVkZWE=" target="_blank" rel="noreferrer" className="mr-4 hover:underline md:mr-6 dark:hover:text-white ">Instagram</a>
         </li>
         <li>
-            <a href="#" target="_blank" rel="noreferrer" className="mr-4 hover:underline md:mr-6 dark:hover:text-white">Linkedin</a>
+            <a href="https://www.linkedin.com/in/kondareddy-shilpa-889626215" target="_blank" rel="noreferrer" className="mr-4 hover:underline md:mr-6 dark:hover:text-white">Linkedin</a>
         </li>
         <li>
-            <a href="#" target="_blank" rel="noreferrer" className="mr-4 hover:underline md:mr-6 dark:hover:text-white">Github</a>
+            <a href="https://github.com/shilpareddy9677" target="_blank" rel="noreferrer" className="mr-4 hover:underline md:mr-6 dark:hover:text-white">Github</a>
         </li>
         <li>
-            <a href="#" target="_blank" rel="noreferrer" className="hover:underline dark:hover:text-white">Youtube</a>
+            <a href="www.https://www.youtube.com/" target="_blank" rel="noreferrer" className="hover:underline dark:hover:text-white">Youtube</a>
         </li>
     </ul>
     </div>
